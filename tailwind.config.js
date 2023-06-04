@@ -7,9 +7,9 @@ module.exports = {
         wetAsphalt: "#2C3E50",
       },
       fontSize: {
-        'vsm': '10px',
+        vsm: "10px",
       },
     },
   },
-  plugins: [require('@tailwindcss/typography'),],
+  plugins: [require("@tailwindcss/typography")],
 };
